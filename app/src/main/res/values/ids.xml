@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEdtCourseName" type="id" />
+    <item name="idEdtCourseDuration" type="id" />
+    <item name="idEdtCourseTracks" type="id" />
+    <item name="idEdtCourseDescription" type="id" />
+    <item name="idBtnUpdateCourse" type="id" />
+    <item name="idBtnDelete" type="id" />
+    <item name="idBtnAddCourse" type="id" />
+    <item name="idBtnReadCourse" type="id" />
+</resources>
